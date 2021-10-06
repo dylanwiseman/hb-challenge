@@ -1,0 +1,14 @@
+body {
+  background-image: url("Coding-Challenge-Image.png");
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-position: 100% 0%;
+  background-color: #611818;
+}
+
+h1 {
+  font-family: "Playfair Display", serif;
+  color: white;
+  font-size: 8em;
+  margin: 3em 0 0 1em;
+}
